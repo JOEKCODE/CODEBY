@@ -1,0 +1,40 @@
+*{
+    padding-top: 0%;
+    margin-top: 0%;
+    background-color: burlywood;
+    /* background-image: _(url(url¨20181122-shutterstock_451821751.jpg¨)); */
+    
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    border-radius: 0%;
+}
+header{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: none;
+    text-justify: auto; 
+    text-shadow: none;
+    position: fixed;
+}
+main{
+    padding: 30px;
+    margin: 20px;
+    background-image: url("./20181122-shutterstock_451821751.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+}
+#text{
+    width: 300px;
+    text-align: left;
+   padding: 20px;
+   margin: 20px; 
+}
+#point{
+    margin: 20px;
+    text-shadow: 20px;
+    text-decoration-color: cornflowerblue;
+}
+#image{
+    width: 50px;
+}
