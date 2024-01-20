@@ -3,17 +3,12 @@
     margin-top: 0%;
     background-color: burlywood;
     /* background-image: _(url(url¨20181122-shutterstock_451821751.jpg¨)); */
-    
-    text-align: center;
-    justify-content: center;
-    justify-items: center;
     border-radius: 0%;
 }
 header{
     font-size: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-shadow: none;
-    text-justify: auto; 
     text-shadow: none;
     position: fixed;
 }
